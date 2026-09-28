@@ -1,0 +1,4 @@
+# CODE SENSE — Mini Compiler Dependencies
+# Built using pure Python standard library (tkinter, re, dataclasses, enum).
+# No external pip dependencies required!
+# Python >= 3.8 recommended.
